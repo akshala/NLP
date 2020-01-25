@@ -1,2 +1,2 @@
 # NLP
-learning the basics of natural language processing on python using nltk
+learning basics of natural language processing on python using nltk
